@@ -1,0 +1,12 @@
+# third-party MCP bridge (copied beside the project so TD can load it)
+modules/
+mcp_webserver_base.tox
+import_modules.py
+# TD backups / crash files
+*.1.toe
+CrashAutoSave.*
+*.dmp
+renders/
+__pycache__/
+.claude-flow/
+**/.claude-flow/
